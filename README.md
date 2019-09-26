@@ -3,5 +3,7 @@
 
 Data Exploration and Use Case Story Line
 
+bank-full
    The model has been deployed and parameters to check how good the model is explained in the code.Coming back to the original requirements where the model should be efficient in targeting and less bothering to uninterested customers
  
+bank-full Data Exploration
